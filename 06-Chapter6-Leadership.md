@@ -11,6 +11,7 @@ Leaders are there
 - A leader needs to lead by example. If a leader is terrorizing and bullying a vendor, the leader is teaching his employees to follow the same behaviors
 
 Incentives on a team are everything. Money is important, but not everything. With a good manager and team, employees will stay longer and be more engaged. 
+- If the employees feel like they are still learning, getting a fair deal (usually salary + benefits), a good team, and have opportunities to be successful and grow, they will always stay. 
 - One factor here is managing 'clever' developers. We want smart people on our team, but are they doing things that no-one else understands? Are they creating overly complex code just to feel clever? Or are they creating simple, well documented code that anyone can understand.
 - Retention and attrition is a trailing indicator - by the time you look at these metrics, it's already too late.
 
