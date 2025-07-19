@@ -13,3 +13,9 @@ What is the state of AI today? There is no artifical intelligence. Most AI is re
 ## AI Accuracy
 
 Note that AI is only is good as the data passed into it to learn. The data needs to be carefully filtered and organized. Garbage in == Garbage out. Where AI really excels today is with cognitive services. Image recognition, text<->speech, image->text, etc. These are very focused, well honed algorithms that work well.
+
+## Generative AI
+
+Generative AI tools like GitHub Copilot and Cursor are similar to asking a peer to write a function for you, but faster. You still need to review the answer, write tests to validate it's correct, and keep your brain in the code. Vibe Coding, I believe, is the same as merging PR's from peers without checking their work. There are elements of Generative AI that are really good - rewriting emails or text - especially with some direction (e.g. rewrite this paragraph to be more impactful, or more persuasive). I estimate tools like Copilot make me between 20-30% more productive - definitely not nothing. It's a useful tool. It does highlight how terrible as humans we are at writing requirements - and when we ask for too much, we get a poor answer. 
+
+Note: None of this article was written or rewritten with AI... yet.
